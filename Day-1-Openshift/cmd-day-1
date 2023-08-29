@@ -12,4 +12,6 @@ bash-4.4 ~ $ oc expose service/my-php-app
 
 bash-4.4 ~ $ oc get routes
 
+bash-4.4 ~ $ oc delete all --all
+
 
